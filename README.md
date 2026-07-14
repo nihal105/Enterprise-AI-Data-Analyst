@@ -290,14 +290,9 @@ streamlit run analyst.py
 ---
 
 #  Team
-
-<div align="center">
-
-| Name | Role |
-|------|------|
-| **Nihaall** | AI & Backend Development |
-| **Shifana** | Frontend & Testing |
-| **Murshid** | Documentation & Integration |
+- *Nihal*
+- *Shifana*
+- *Murshid*
 
 </div>
 
