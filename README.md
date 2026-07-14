@@ -247,7 +247,6 @@ streamlit run analyst.py
 #  Future Enhancements
 
 -  LLM Integration
--  Voice Commands
 -  More Chart Types
 -  Predictive Analytics
 -  Cloud Deployment
