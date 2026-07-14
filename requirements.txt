@@ -1,6 +1,8 @@
 streamlit
 pandas
+numpy
+plotly
 torch
 openpyxl
-plotly
+reportlab
 scikit-learn
